@@ -1,6 +1,9 @@
 # UAS-Project-PBO
 ## Dibuat oleh: Syahril Ifanda Meista Pratama (312110570)
 
+## Link Youtub Penjelasan Project
+
+
 Contoh sebuah project Java yang menerapkan konsep PBO atau OOP 
 
 ## Study Kasus Project
