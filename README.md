@@ -3,6 +3,8 @@
 
 ## Link Youtub Penjelasan Project
 
+https://github.com/SyahrilIfanda/UAS-Project-PBO/blob/main/README.md
+
 
 Contoh sebuah project Java yang menerapkan konsep PBO atau OOP 
 
