@@ -5,7 +5,7 @@ Contoh sebuah project Java yang menerapkan konsep PBO atau OOP
 
 ## Study Kasus Project
 
-Membuat program Java untuk menampilkan data mahasiswa dari kelas TI.21.C2
+####Membuat program Java untuk menampilkan data mahasiswa dari kelas TI.21.C2
 
 
 Setiap Mahasiswa memiliki data meliputi :
