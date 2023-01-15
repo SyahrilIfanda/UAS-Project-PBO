@@ -3,7 +3,7 @@
 
 ## Link Youtub Penjelasan Project
 
-https://github.com/SyahrilIfanda/UAS-Project-PBO/blob/main/README.md
+https://youtu.be/p5Pr8Sim4G0
 
 <br>
 <br>
