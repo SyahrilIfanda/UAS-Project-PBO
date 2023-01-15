@@ -5,6 +5,10 @@
 
 https://github.com/SyahrilIfanda/UAS-Project-PBO/blob/main/README.md
 
+<br>
+<br>
+<br>
+<br>
 
 Contoh sebuah project Java yang menerapkan konsep PBO atau OOP 
 
@@ -36,4 +40,5 @@ Contoh sebuah project Java yang menerapkan konsep PBO atau OOP
 ### Clases
 <br>
 * Mahasiswa -> Abstact Class (Super class)
+<br>
 
